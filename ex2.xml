@@ -1,0 +1,13 @@
+<root>
+    <studen>
+        <id>01</id>
+        <name>Tom</name>
+        <lastname>Price</lastname>
+    </studen>
+    <studen>
+        <id>02</id>
+        <name>Nick</name>
+        <lastname>Thameson</lastname>
+    </studen>
+</root>
+

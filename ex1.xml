@@ -1,0 +1,12 @@
+<student id="566003204-1">
+   <stdName>
+     Robert
+   </stdName>
+   <gpa>
+     3.06
+   </gpa>
+   <register>
+     <subject sid="322433" grade="A" />
+     <subject sid="322236" grade="C"/>
+   </register>
+</student>
